@@ -5,7 +5,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Sep 2015 22:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2015 22:26:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/bergie-c-base/bergie/index.html</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Fri, 04 Sep 2015 22:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to Flow-Based Programming and NoFlo]]></title>
+            <description><![CDATA[<article><h1>Introduction to Flow-Based Programming and NoFlo</h1><p>Talk by Henri Bergius at the c-base hackerspace in Berlin. See http://noflojs.org for more details!</p><img src="http://i.vimeocdn.com/video/445823533_1280.jpg"></article>]]></description>
+            <link>https://vimeo.com/72065207</link>
+            <guid isPermaLink="false">4008152f-eeef-404d-a337-07937bbca333</guid>
+            <pubDate>Fri, 04 Sep 2015 22:26:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Smurf Navy - Ingress sitrep]]></title>
