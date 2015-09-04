@@ -5,7 +5,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Sep 2015 22:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2015 22:30:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/bergie-c-base/bergie/index.html</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Fri, 04 Sep 2015 22:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building an Ingress Table with Flowhub]]></title>
+            <description><![CDATA[<article><h1>Building an Ingress Table with Flowhub</h1><p>The c-base space station - a culture carbonite and a hackerspace - is the focal point of Berlin's thriving tech scene. It is also the place where many of the city's Ingress agents converge after an evening of hectic raiding or farming.</p><img src="http://bergie.iki.fi/files/ingress-cbase-pacman.png"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/ingress-table/</link>
+            <guid isPermaLink="false">4f3e88e9-c0b0-435f-a630-0dece497d1ae</guid>
+            <pubDate>Fri, 04 Sep 2015 22:30:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introduction to Flow-Based Programming and NoFlo]]></title>
