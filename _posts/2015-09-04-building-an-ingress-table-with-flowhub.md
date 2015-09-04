@@ -29,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://bergie.iki.fi/blog/ingress-table/'
 title: Building an Ingress Table with Flowhub
-datePublished: '2015-09-04T22:16:49.161Z'
-dateModified: '2015-09-04T22:15:59.224Z'
+datePublished: '2015-09-04T22:30:12.433Z'
+dateModified: '2015-09-04T22:29:52.258Z'
 sourcePath: _posts/2015-09-04-building-an-ingress-table-with-flowhub.md
 published: true
 _context: 'http://schema.org'
