@@ -3,16 +3,23 @@
     <channel>
         <title><![CDATA[bergie@c-base]]></title>
         <description><![CDATA[bergie@c-base]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Sep 2015 22:15:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Sep 2015 22:16:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
             <description><![CDATA[<article><h1>bergie</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg"></article>]]></description>
-            <link>undefinedbergie/index.html</link>
+            <link>https://thegrid.ai/bergie-c-base/bergie/index.html</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Fri, 04 Sep 2015 22:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building an Ingress Table with Flowhub]]></title>
+            <description><![CDATA[<article><h1>Building an Ingress Table with Flowhub</h1><p>The c-base space station - a culture carbonite and a hackerspace - is the focal point of Berlin's thriving tech scene. It is also the place where many of the city's Ingress agents converge after an evening of hectic raiding or farming.</p><img src="http://bergie.iki.fi/files/ingress-cbase-pacman.png"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/ingress-table/</link>
+            <guid isPermaLink="false">4f3e88e9-c0b0-435f-a630-0dece497d1ae</guid>
+            <pubDate>Fri, 04 Sep 2015 22:16:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
