@@ -5,7 +5,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Sep 2015 22:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2015 22:19:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/bergie-c-base/bergie/index.html</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Fri, 04 Sep 2015 22:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Demonstration for press freedom in Germany]]></title>
+            <description><![CDATA[<article><h1>Demonstration for press freedom in Germany</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a25c2de1-ecb3-4c91-ba57-b588df020303.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bergie-c-base/demonstration-for-press-freedom-in-germany/index.html</link>
+            <guid isPermaLink="false">c41056f5-ce91-4389-a0da-6d5cc858109d</guid>
+            <pubDate>Fri, 04 Sep 2015 22:19:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building an Ingress Table with Flowhub]]></title>
