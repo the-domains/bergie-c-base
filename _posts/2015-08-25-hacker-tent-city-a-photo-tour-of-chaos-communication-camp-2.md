@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://motherboard.vice.com/read/hacker-tent-city-a-photo-tour-of-chaos-communication-camp-2015'
 title: 'Hacker Tent City: a Photo Tour of Chaos Communication Camp 2015'
-datePublished: '2015-09-04T22:21:26.295Z'
-dateModified: '2015-08-25T10:55:15.159Z'
+datePublished: '2015-09-04T22:32:06.949Z'
+dateModified: '2015-09-04T22:29:52.256Z'
 sourcePath: _posts/2015-08-25-hacker-tent-city-a-photo-tour-of-chaos-communication-camp-2.md
 published: true
 _context: 'http://schema.org'
