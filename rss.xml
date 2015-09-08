@@ -5,7 +5,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Sep 2015 11:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2015 16:33:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/bergie-c-base/bergie/index.html</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Fri, 04 Sep 2015 22:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C-Base Station's Ingress Table]]></title>
+            <description><![CDATA[<article><h1>C-Base Station's Ingress Table</h1><p>In Berlin the c-base station is a favorite hangout for the strong Berlin Tech scene, this is where they often end up after a long session of playing Ingress about town. A while ago the coder Henri Bergius and his cohorts got together in a hackathon to build an Ingress table to hang out around after a session of play. It illustrates in real time the Ingress action in the neighborhood around c-base station, and acts as a station to recharge weary mobile phones.</p><img src="http://architectstables.com/wp-content/uploads/2014/07/ingress-table-test-small-450x337.jpg"></article>]]></description>
+            <link>http://architectstables.com/archives/4928</link>
+            <guid isPermaLink="false">961dff05-dcd8-4cef-8005-677c82a3210f</guid>
+            <pubDate>Tue, 08 Sep 2015 16:33:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Evening at c-base]]></title>
