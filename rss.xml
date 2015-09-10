@@ -5,7 +5,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Sep 2015 12:01:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2015 12:02:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/bergie-c-base/bergie/index.html</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Fri, 04 Sep 2015 22:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stubnitz Drydock]]></title>
+            <description><![CDATA[<article><h1>Stubnitz Drydock</h1><img src="https://c1.staticflickr.com/9/8570/16204115061_27b2a4220f_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/bergie/sets/72157650124108602</link>
+            <guid isPermaLink="false">eb8e6232-1e23-49ea-987a-e19decc89049</guid>
+            <pubDate>Thu, 10 Sep 2015 12:01:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ingress Table]]></title>
@@ -69,13 +76,6 @@
             <link>http://motherboard.vice.com/read/hacker-tent-city-a-photo-tour-of-chaos-communication-camp-2015</link>
             <guid isPermaLink="false">83dd5ae9-f3d0-4d34-b879-ac9a23a6cea9</guid>
             <pubDate>Fri, 04 Sep 2015 22:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="cccamp15 c-base village setup complete&excl; Ready for celebrating 20 years of &num;cbase - Party 8 p&period;m&period; &num;BER village" src="https://pbs.twimg.com/media/CMTM8CLWcAAGwNd.jpg:large">]]></description>
-            <link>https://twitter.com/c_v_e_n/status/631855188442238976</link>
-            <guid isPermaLink="false">ca1dde27-37ec-485b-865b-7380dde2c80f</guid>
-            <pubDate>Fri, 04 Sep 2015 22:31:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
