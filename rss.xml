@@ -5,7 +5,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Sep 2015 12:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2015 12:06:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/bergie-c-base/bergie/index.html</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Fri, 04 Sep 2015 22:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Thanks to &commat;bergie for the grand tour &commat;cbase &num;t3chn1ckapproves" src="https://pbs.twimg.com/media/CCRY7SAW0AAEGtU.jpg:large">]]></description>
+            <link>https://twitter.com/t3chn1ck/status/586691629261709312</link>
+            <guid isPermaLink="false">d17d53ae-5e0d-4acb-9f8b-00b9eb7f2e6a</guid>
+            <pubDate>Thu, 10 Sep 2015 12:05:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stubnitz Drydock]]></title>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/bergie/status/558717130032828416</link>
             <guid isPermaLink="false">f18c9742-23df-449d-9e20-f1786862d2e4</guid>
             <pubDate>Fri, 04 Sep 2015 22:55:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hacker Tent City: a Photo Tour of Chaos Communication Camp 2015]]></title>
-            <description><![CDATA[<article><h1>Hacker Tent City: a Photo Tour of Chaos Communication Camp 2015</h1><p>Our tent isn't even up and my friendly neighbor has already hacked his electronic name badge and, in honor of us, changed its display to a ASCII version of the VICE logo.</p><img src="http://motherboard-images.vice.com/content-images/contentimage/24790/1440021527756475.jpg"></article>]]></description>
-            <link>http://motherboard.vice.com/read/hacker-tent-city-a-photo-tour-of-chaos-communication-camp-2015</link>
-            <guid isPermaLink="false">83dd5ae9-f3d0-4d34-b879-ac9a23a6cea9</guid>
-            <pubDate>Fri, 04 Sep 2015 22:32:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
