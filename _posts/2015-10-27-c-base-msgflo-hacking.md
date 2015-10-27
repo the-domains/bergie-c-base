@@ -7,17 +7,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: Rewiring the space station with Flowhub
-datePublished: '2015-10-27T18:41:49.296Z'
-dateModified: '2015-10-27T18:41:23.814Z'
+datePublished: '2015-10-27T19:10:57.959Z'
+dateModified: '2015-10-27T19:10:44.259Z'
 title: c-base MsgFlo hacking
+sourcePath: _posts/2015-10-27-c-base-msgflo-hacking.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-27-c-base-msgflo-hacking.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
@@ -25,7 +25,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a87fa19-4fb9-444d-b57d-79ecab8d6b1d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2febc11-0345-47ad-b09d-c8845fe2ffa6.jpg)
 
-# 
+# c-base MsgFlo hacking
 
 Rewiring the space station with [Flowhub][0]
 
