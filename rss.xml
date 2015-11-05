@@ -4,7 +4,7 @@
         <description><![CDATA[bergie]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 18:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2015 20:39:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First clone of the c-base Ingress Table]]></title>
+            <description><![CDATA[<article><h1>First clone of the c-base Ingress Table</h1><p>An article about an Ingress table manufactured by the Berlin Resistance showing the c-base portals was the starting point. This table shows several portal states by adjustment of associated RGB-LEDs. Several months went by; the table came back to our nerd minds repeatedly; we were infected. The creation of a physical display showing our local farm containing 37 portals was born.</p><img src="http://display.ingress-resistance.com/pics/showroom/07_.jpg"></article>]]></description>
+            <link>http://display.ingress-resistance.com/</link>
+            <guid isPermaLink="false">bf804a44-1f5f-40c6-81ff-d13e6a697326</guid>
+            <pubDate>Thu, 05 Nov 2015 20:37:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/bergie/21016733411/in/datetaken/</link>
             <guid isPermaLink="false">fc8f8561-dbef-4bdc-9d81-40fa4cb7dbe2</guid>
             <pubDate>Tue, 08 Sep 2015 11:50:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Not the worst place to hack &commat;noflo&colon; &commat;cbase" src="https://pbs.twimg.com/media/B8D2RLdCEAA0qJB.jpg:large">]]></description>
-            <link>https://twitter.com/bergie/status/558717130032828416</link>
-            <guid isPermaLink="false">f18c9742-23df-449d-9e20-f1786862d2e4</guid>
-            <pubDate>Fri, 04 Sep 2015 22:55:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
