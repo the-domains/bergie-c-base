@@ -24,9 +24,9 @@ author:
           - 58
 related: []
 app_links: []
-datePublished: '2015-09-08T11:45:09.672Z'
+datePublished: '2016-01-26T18:25:17.224Z'
 title: ''
-dateModified: '2015-09-08T11:44:39.101Z'
+dateModified: '2015-09-08T11:52:45.876Z'
 tags:
   - ''
 authors: []
@@ -37,6 +37,9 @@ publisher:
   favicon: 'https://ssl.gstatic.com/images/branding/product/ico/google_plus_alldp.ico'
 sourcePath: _posts/2015-09-08-ingress-table-under-attack-learn-about-the-table-at-http.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
 _type: MediaObject
 _context: 'http://schema.org'
 
