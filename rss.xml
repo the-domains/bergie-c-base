@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bergie]]></title>
-        <description><![CDATA[bergie]]></description>
+        <title><![CDATA[bergie@c-base]]></title>
+        <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 18:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 22:20:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nicely blue]]></title>
+            <description><![CDATA[<article><h1>Nicely blue</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c979a0d261c81657dbda8392e8a09eed265c5ea.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/bergie/24722533052/</link>
+            <guid isPermaLink="false">1061adf4-7d81-4819-a1c5-3d24e8ba128b</guid>
+            <pubDate>Fri, 05 Feb 2016 22:20:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/bergie/16018695490/in/album-72157630789707298/</link>
             <guid isPermaLink="false">e7fd4b4d-68b5-445d-9a8f-85d2ade39f5d</guid>
             <pubDate>Tue, 08 Sep 2015 17:22:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At Home in Silicon Allee: The Expat Experience]]></title>
-            <description><![CDATA[<article><h1>At Home in Silicon Allee: The Expat Experience</h1><p>The stories of expat coders who chose to make their lives in Berlin. With a booming tech industry that has captured the imagination of the entire continent, Berlin has not only attracted people from all over Germany, it has become a new home for thousands of expat coders, programmers, developers, and creative minds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e80fc1d7207ebc0a20ed2bd2e928a4aafef17fb.png"></article>]]></description>
-            <link>https://sourcecode.berlin/2014/11/13/at-home-in-silicon-allee-the-expat-experience/</link>
-            <guid isPermaLink="false">dd6f5595-d56c-41c6-a561-72abdff01234</guid>
-            <pubDate>Tue, 08 Sep 2015 17:04:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
