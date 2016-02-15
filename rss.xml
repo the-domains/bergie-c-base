@@ -4,7 +4,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 18:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 18:43:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Schiffsüberführung, Instandsetzung und Klassenerhalt der MS Stubnitz]]></title>
+            <description><![CDATA[<article><h1>Schiffsüberführung, Instandsetzung und Klassenerhalt der MS Stubnitz</h1><p>Die MS Stubnitz (ehemals ROS 701, Indienststellung 1964) ist ein ehemaliges Kühlschiff der Hochsee-Fischfangflotte der ehemaligen DDR, das seit 1992 als soziokulturelles Veranstaltungsschiff genutzt wird. Das Schiff beherbergt seit 1992 eine Crew von Freiwilligen, die mit diesem Schiff Kultur und Kunst in die Seehäfen des Nord- und Ostseeraums bringen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b93f85df563cc795c81ad40252e385cfe6b58adf.jpg"></article>]]></description>
+            <link>http://www.ijon.me/2014/09/08/ms-stubnitz-trockendock/</link>
+            <guid isPermaLink="false">2d193676-2a2c-4a06-83ef-11e29d021bae</guid>
+            <pubDate>Mon, 15 Feb 2016 18:43:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ingresstisch]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/bergie/16205227842/in/datetaken-public/</link>
             <guid isPermaLink="false">829d0a69-a8f3-496b-8763-9fde6db538cd</guid>
             <pubDate>Thu, 10 Sep 2015 12:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="https&colon;&sol;&sol;events&period;ccc&period;de&sol;camp&sol;2015&sol;wiki&sol;Main&lowbar;Page &period;&period;&period; &period;&period;&period; with &commat;thegrid team &commat;4ngryMo &commat;aut0mata &commat;jononor &commat;bergie &commat;jongold &num;inspiration &num;collaboration" src="https://pbs.twimg.com/media/CMrbweaXAAAym7z.jpg:large">]]></description>
-            <link>https://twitter.com/t3chn1ck/status/633560325011410944</link>
-            <guid isPermaLink="false">221f8df5-9189-4266-af95-63416365a081</guid>
-            <pubDate>Tue, 08 Sep 2015 18:20:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
