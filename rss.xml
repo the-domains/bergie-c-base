@@ -4,7 +4,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 22:31:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 18:43:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ingresstisch]]></title>
+            <description><![CDATA[<article><h1>Ingresstisch</h1><p>Ingress ist ein Alternate-Reality-Spiel der Firma Niantic Labs für mobile Geräte. Das Spiel wird unter Zuhilfenahme der von den Mobilgeräten gelieferten standortbezogenen Daten im Freien gespielt und verwendet einzigartige Architektur, Denkmäler und Kunst im öffentlichen Raum zur Einteilung und Gestaltung der Spielwelt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88193b7caf031391fbed9f67ece3d118231e5a47.jpg"></article>]]></description>
+            <link>http://www.ijon.me/2014/03/18/ingresstisch/</link>
+            <guid isPermaLink="false">e57346bb-d349-40b7-800a-709db1b60983</guid>
+            <pubDate>Mon, 15 Feb 2016 18:43:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nicely blue]]></title>
-            <description><![CDATA[<article><h1>Nicely blue</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ae2e30c716804d969b5039094c2271288cdf3bb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Nicely blue</h1><p>The Ingress Table on a typical Friday night</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80ba125d3a5e3b1f6548ae7151c30464cb0ec87c.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/bergie/24722533052/</link>
             <guid isPermaLink="false">1061adf4-7d81-4819-a1c5-3d24e8ba128b</guid>
             <pubDate>Fri, 05 Feb 2016 22:30:18 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/t3chn1ck/status/633560325011410944</link>
             <guid isPermaLink="false">221f8df5-9189-4266-af95-63416365a081</guid>
             <pubDate>Tue, 08 Sep 2015 18:20:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MicroFlo workshop]]></title>
-            <description><![CDATA[<article><h1>MicroFlo workshop</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fd0dd6b5ee3175327c58435e3a5c6b22982ff1c.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/bergie/16018695490/in/album-72157630789707298/</link>
-            <guid isPermaLink="false">e7fd4b4d-68b5-445d-9a8f-85d2ade39f5d</guid>
-            <pubDate>Tue, 08 Sep 2015 17:22:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
