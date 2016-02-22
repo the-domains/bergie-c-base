@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Play-testing a new board game: http://pentagame.org/'
-datePublished: '2016-02-15T19:20:22.222Z'
-dateModified: '2016-02-15T19:20:13.032Z'
+datePublished: '2016-02-22T11:56:23.452Z'
+dateModified: '2016-02-22T11:53:18.955Z'
 author:
   - avatar: {}
 related: []
@@ -34,7 +34,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Play-testing a new board game: [http://pentagame.org][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/39288b4fe21bb931a8c46a253eddf31ed12cb54b.jpg)
-
-[0]: http://pentagame.org/
+![Play-testing a new board game: http://pentagame.org](https://s3-us-west-2.amazonaws.com/the-grid-img/p/262be03d95a9b4be4933ab3a58e7df8c43372bb6.jpg)
