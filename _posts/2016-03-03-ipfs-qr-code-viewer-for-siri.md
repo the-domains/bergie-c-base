@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: 'https://ipfs.io/ipfs/QmUzER8RFyFMKfcE5WKcCWdK1pFXJMVKoCzeHEw2XWpibA/?http://c-base.org/'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T21:54:46.834Z'
-dateModified: '2016-03-03T21:54:35.513Z'
+datePublished: '2016-03-03T22:12:35.369Z'
+dateModified: '2016-03-03T22:11:53.978Z'
 title: IPFS QR Code viewer for Siri
 author: []
 sourcePath: _posts/2016-03-03-ipfs-qr-code-viewer-for-siri.md
@@ -19,11 +19,11 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+_type: MediaObject
 
 ---
 # IPFS QR Code viewer for Siri
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9140d2f5-af20-4cc3-bf93-2b6292ab7e78.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a89361b73475d1444a9f3cb0e272d2c1c1bb07a7.png)
 
 Try it out at [your local IPFS gateway][0], or [at Siri][1] if on crew network.
 
