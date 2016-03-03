@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T21:54:18.591Z'
-dateModified: '2016-03-03T21:50:28.180Z'
+datePublished: '2016-03-03T21:54:46.834Z'
+dateModified: '2016-03-03T21:54:35.513Z'
 title: IPFS QR Code viewer for Siri
 author: []
 sourcePath: _posts/2016-03-03-ipfs-qr-code-viewer-for-siri.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: ipfs-qr-code-viewer-for-siri/index.html
-_type: Article
+_type: Blurb
 
 ---
 # IPFS QR Code viewer for Siri
