@@ -4,7 +4,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 22:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 22:27:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[c-base/ipfs-deaddrop]]></title>
-            <description><![CDATA[<article><h1>c-base/ipfs-deaddrop</h1><p>This is the source code for an IPFS dead drop. The IPFS dead drop is a variant of the USB dead drop (see https://deaddrops.com/ for more information on USB dead drops). When you plug a USB memory into the device it will automatically access the memory stick and publish all the files on the web.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd3bc59d2ca65ea3b1e2913dd5b9c145f8e55837.jpg"></article>]]></description>
+            <title><![CDATA[IPFS Dead Drop]]></title>
+            <description><![CDATA[<article><h1>IPFS Dead Drop</h1><p>A dead drop-like system that automatically uploads files from a USB memory stick to the InterPlanetary File System (IPFS)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd3bc59d2ca65ea3b1e2913dd5b9c145f8e55837.jpg"></article>]]></description>
             <link>https://github.com/c-base/ipfs-deaddrop</link>
             <guid isPermaLink="false">6344225f-19a0-4f93-b890-50f63e2fd875</guid>
-            <pubDate>Fri, 04 Mar 2016 22:25:22 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 22:27:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IPFS QR Code viewer for Siri]]></title>
