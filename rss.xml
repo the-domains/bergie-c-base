@@ -4,7 +4,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 22:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 22:25:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[c-base/ipfs-deaddrop]]></title>
+            <description><![CDATA[<article><h1>c-base/ipfs-deaddrop</h1><p>This is the source code for an IPFS dead drop. The IPFS dead drop is a variant of the USB dead drop (see https://deaddrops.com/ for more information on USB dead drops). When you plug a USB memory into the device it will automatically access the memory stick and publish all the files on the web.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd3bc59d2ca65ea3b1e2913dd5b9c145f8e55837.jpg"></article>]]></description>
+            <link>https://github.com/c-base/ipfs-deaddrop</link>
+            <guid isPermaLink="false">6344225f-19a0-4f93-b890-50f63e2fd875</guid>
+            <pubDate>Fri, 04 Mar 2016 22:25:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IPFS QR Code viewer for Siri]]></title>
@@ -68,13 +75,6 @@
             <link>https://plus.google.com/+GeraldScholz/posts/75q4b9TU4yi</link>
             <guid isPermaLink="false">265b6864-de97-4665-a2f2-269654ecaaef</guid>
             <pubDate>Tue, 26 Jan 2016 18:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Year barbeque]]></title>
-            <description><![CDATA[<article><h1>New Year barbeque</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fb32c98b3db15fb2fb56c8d1ed0d97425776056.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/bergie/23582086053/in/datetaken-public/</link>
-            <guid isPermaLink="false">a0f70a7b-350e-4114-a595-127c2d186637</guid>
-            <pubDate>Wed, 06 Jan 2016 17:59:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
