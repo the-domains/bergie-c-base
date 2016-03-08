@@ -4,7 +4,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 22:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 11:56:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Knowledge and The Manual for Civilization]]></title>
+            <description><![CDATA[<article><h1>The Knowledge and The Manual for Civilization</h1><p>One of the early inspirations for creating the Manual for Civilization was an email I received from Lewis Dartnell in London asking me for information on a book he was writing inspired by James Lovelock’s “Book for all Seasons”.  The idea was a kind of reboot manual for humanity, and it coincided well with some other conversations we had been having at Long Now about making a collection of books that could do something similar.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7df2dfed93bb87efe500ce84390ae299a455eb.jpg"></article>]]></description>
+            <link>http://blog.longnow.org/02014/04/19/the-knowledge/</link>
+            <guid isPermaLink="false">90ee34d5-5074-418e-84ad-31bd287f294b</guid>
+            <pubDate>Tue, 08 Mar 2016 11:55:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IPFS Dead Drop]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/bergie/24722533052/</link>
             <guid isPermaLink="false">1061adf4-7d81-4819-a1c5-3d24e8ba128b</guid>
             <pubDate>Fri, 05 Feb 2016 22:30:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfe85754-6e94-4400-94d2-be1ceb5f3e1d.gif">]]></description>
-            <link>https://plus.google.com/+GeraldScholz/posts/75q4b9TU4yi</link>
-            <guid isPermaLink="false">265b6864-de97-4665-a2f2-269654ecaaef</guid>
-            <pubDate>Tue, 26 Jan 2016 18:25:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
