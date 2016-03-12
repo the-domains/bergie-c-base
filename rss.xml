@@ -4,7 +4,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 11:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 14:22:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bergie]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ipfs-ringpin]]></title>
+            <description><![CDATA[<article><h1>ipfs-ringpin</h1><p>File-sharing ring for IPFS, implemented using IPNS and pinning. Experimental. IPFS implements a content-addressable, peer2peer filesystem. As long as some node in the network has the data associated with an address (hash), the object can be retrieved. If however no-one has the data, either right now or over an extended period of time, there is no way to get it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd3bc59d2ca65ea3b1e2913dd5b9c145f8e55837.jpg"></article>]]></description>
+            <link>https://github.com/c-base/ipfs-ringpin</link>
+            <guid isPermaLink="false">fa8b7579-7294-4a42-96d4-20629237c339</guid>
+            <pubDate>Sat, 12 Mar 2016 14:22:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[USB dead drop publishing via IPFS]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.facebook.com/photo.php?fbid=10153962797848140&amp;set=a.27507763139.49679.722463139&amp;type=3&amp;theater</link>
             <guid isPermaLink="false">d4a0ddb1-0e4d-4322-8017-2c02fafed554</guid>
             <pubDate>Mon, 22 Feb 2016 11:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schiffsüberführung, Instandsetzung und Klassenerhalt der MS Stubnitz]]></title>
-            <description><![CDATA[<article><h1>Schiffsüberführung, Instandsetzung und Klassenerhalt der MS Stubnitz</h1><p>Die MS Stubnitz (ehemals ROS 701, Indienststellung 1964) ist ein ehemaliges Kühlschiff der Hochsee-Fischfangflotte der ehemaligen DDR, das seit 1992 als soziokulturelles Veranstaltungsschiff genutzt wird. Das Schiff beherbergt seit 1992 eine Crew von Freiwilligen, die mit diesem Schiff Kultur und Kunst in die Seehäfen des Nord- und Ostseeraums bringen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcb203a8d30efa127eb32759790d78643660c955.jpg"></article>]]></description>
-            <link>http://www.ijon.me/2014/09/08/ms-stubnitz-trockendock/</link>
-            <guid isPermaLink="false">2d193676-2a2c-4a06-83ef-11e29d021bae</guid>
-            <pubDate>Mon, 15 Feb 2016 18:43:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
