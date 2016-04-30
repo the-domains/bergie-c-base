@@ -4,14 +4,21 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 14:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 19:26:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[bergie]]></title>
-            <description><![CDATA[<article><h1>bergie</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bc2067cbda021d6a35b526a993be06b1f4be63c.jpg"></article>]]></description>
+            <title><![CDATA[Bergie]]></title>
+            <description><![CDATA[<article><h1>Bergie</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bc2067cbda021d6a35b526a993be06b1f4be63c.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IPFS Berlin Meetup]]></title>
+            <description><![CDATA[<article><h1>IPFS Berlin Meetup</h1><p>IPFS -- the InterPlanetary File System -- is making the web faster, safer, decentralized, and more open. It is a new hypermedia distribution protocol, addressed by content and identities. Think Git + BitTorrent + The Web.</p><img src="https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F20659018%252F171499605171%252F1%252Foriginal.jpg%3Frect%3D0%252C5%252C852%252C426%26s%3D2438703bc0b666cc8e33d1ee70a1b6fb?w=1000&s=603a99af9977e355c648fdfbb936305a"></article>]]></description>
+            <link>https://www.eventbrite.com/e/ipfs-berlin-meetup-tickets-24998261473?utm_source=eb_email&amp;utm_medium=email&amp;utm_campaign=reminder_attendees_48hour_email&amp;utm_term=eventname</link>
+            <guid isPermaLink="false">e1bb04cc-8e1d-4a5b-ba3d-127151793dfa</guid>
+            <pubDate>Sat, 30 Apr 2016 19:25:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LoganCIJ 2016]]></title>
@@ -28,8 +35,8 @@
             <pubDate>Sat, 12 Mar 2016 14:22:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[USB dead drop publishing via IPFS]]></title>
-            <description><![CDATA[<article><h1>USB dead drop publishing via IPFS</h1><p>USB dead drop welcome screen</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/195107d6211b9ba3dc07e85f026d1522cecef508.jpg"></article>]]></description>
+            <title><![CDATA[USB dead drop welcome screen]]></title>
+            <description><![CDATA[<article><h1>USB dead drop welcome screen</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/195107d6211b9ba3dc07e85f026d1522cecef508.jpg"></article>]]></description>
             <link>https://thegrid.ai/bergie-c-base/usb-dead-drop-publishing-via-ipfs/index.html</link>
             <guid isPermaLink="false">d6765684-82bc-4c53-85ce-9180722fd785</guid>
             <pubDate>Wed, 09 Mar 2016 11:42:16 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/bergie/24621179524/</link>
             <guid isPermaLink="false">22000045-8807-40db-b776-bcc58adf566f</guid>
             <pubDate>Sat, 27 Feb 2016 20:08:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Probably the world's coolest IPFS node]]></title>
-            <description><![CDATA[<article><h1>Probably the world's coolest IPFS node</h1><p>Siri probe at the c-base space station</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40144450402f72177ddd3b365b979aea8ff0da1c.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/bergie/24769765569/in/datetaken-public/</link>
-            <guid isPermaLink="false">67541f4a-bd4d-46eb-bd96-1a0bf19bd952</guid>
-            <pubDate>Mon, 22 Feb 2016 11:49:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
