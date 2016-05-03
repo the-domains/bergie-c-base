@@ -4,7 +4,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 13:48:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 08:06:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bergie]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IPFS Meetup Berlin - 2 May 2016]]></title>
+            <description><![CDATA[<article><h1>IPFS Meetup Berlin - 2 May 2016</h1><p>C-Base</p><img src="http://img.youtube.com/vi/UOC_QqtEJtg/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=UOC_QqtEJtg</link>
+            <guid isPermaLink="false">8248ac01-b6df-4650-afb2-f08a90ae7235</guid>
+            <pubDate>Tue, 03 May 2016 08:06:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LoganCIJ 2016]]></title>
