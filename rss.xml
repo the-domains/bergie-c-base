@@ -4,7 +4,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 08:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 22:42:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bergie]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Elon Musk's Most Unexpected Success Is the SpaceX Live-Stream]]></title>
+            <description><![CDATA[<article><h1>Elon Musk's Most Unexpected Success Is the SpaceX Live-Stream</h1><p>First, Elon Musk's SpaceX disrupted the aerospace industry with rockets that were designed to be reused. Now the company is turning heads with its Internet live-streams. SpaceX's live launch webcasts from the company's Mission Control in Hawthorne, Calif., are becoming must-watch events for space nerds and common folk alike.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2e6ad3ddd29656852901fd067ba2fd245830f3a.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-05-26/elon-musk-s-most-unexpected-success-is-the-spacex-live-stream</link>
+            <guid isPermaLink="false">8be2dad0-5298-440d-a376-70872d4027fb</guid>
+            <pubDate>Wed, 01 Jun 2016 22:42:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[IPFS Meetup Berlin - 2 May 2016]]></title>
-            <description><![CDATA[<article><h1>IPFS Meetup Berlin - 2 May 2016</h1><p>C-Base</p><img src="http://img.youtube.com/vi/UOC_QqtEJtg/hqdefault.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>IPFS Meetup Berlin - 2 May 2016</h1><p>C-Base</p></article>]]></description>
             <link>https://www.youtube.com/watch?v=UOC_QqtEJtg</link>
             <guid isPermaLink="false">8248ac01-b6df-4650-afb2-f08a90ae7235</guid>
             <pubDate>Tue, 03 May 2016 08:06:49 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://ipfs.io/ipfs/QmUzER8RFyFMKfcE5WKcCWdK1pFXJMVKoCzeHEw2XWpibA/?http://c-base.org/</link>
             <guid isPermaLink="false">cc30c1b2-2c66-406e-97b0-034d03ee7f61</guid>
             <pubDate>Thu, 03 Mar 2016 22:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don't press the red key]]></title>
-            <description><![CDATA[<article><h1>Don't press the red key</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bc87276f81c4a8201c846361b04687f188df038.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/bergie/24621179524/</link>
-            <guid isPermaLink="false">22000045-8807-40db-b776-bcc58adf566f</guid>
-            <pubDate>Sat, 27 Feb 2016 20:08:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
