@@ -4,7 +4,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 12:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 12:43:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bergie]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Open MCT - Open Source Mission Control Software]]></title>
+            <description><![CDATA[<article><h1>Open MCT - Open Source Mission Control Software</h1><p>Open MCT is a next-generation mission control framework being developed at the NASA Ames Research Center in Silicon Valley. Web-based, for desktop and mobile.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e3d21aa44b28a2c27a09c52f1dc313db/croprotate.jpg?cropheight=860&cropwidth=1215&degrees=0&input=https%3A%2F%2Fnasa.github.io%2Fopenmct%2Fstatic%2Fres%2Fimages%2FOpen-MCT.Browse.Layout.Mars-Weather-1.jpg&x=32&y=0"></article>]]></description>
+            <link>https://nasa.github.io/openmct/</link>
+            <guid isPermaLink="false">a7e82a8f-925a-49b0-9ac8-819d96ec37ee</guid>
+            <pubDate>Tue, 28 Jun 2016 12:42:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Berlin IPFS/Blockstack Meetup at c-base - 2 June 2016]]></title>
-            <description><![CDATA[<article><h1>Berlin IPFS/Blockstack Meetup at c-base - 2 June 2016</h1><p>Full, fixed HD video: https://youtu.be/CAfagNmIeOE IPFS Meetup is back in Berlin following the Decentralized and Encrypted conference! This time we will be seeing a continuation of the demos presented at D&E. 1) Introduction to IPFS and Blockstack (5 min Juan and Ryan Shea) 2) Introduction PLD Technical Deep Dive (10 min, Juan Benet) In this technical talk, Juan will walk through IPLD, the new standard for data on IPFS.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69d7c581313ca9d6b44d222cb14894a6a4e08a17.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Berlin IPFS/Blockstack Meetup at c-base - 2 June 2016</h1><p>Full, fixed HD video: https://youtu.be/CAfagNmIeOE IPFS Meetup is back in Berlin following the Decentralized and Encrypted conference! This time we will be seeing a continuation of the demos presented at D&E. 1) Introduction to IPFS and Blockstack (5 min Juan and Ryan Shea) 2) Introduction PLD Technical Deep Dive (10 min, Juan Benet) In this technical talk, Juan will walk through IPLD, the new standard for data on IPFS.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7d3c4c0f962d3fcce8e00e8aa216d8ad/croprotate.jpg?cropheight=280&cropwidth=480&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FJDX10HNTqU0%2Fhqdefault.jpg&x=0&y=40"></article>]]></description>
             <link>https://youtu.be/JDX10HNTqU0</link>
             <guid isPermaLink="false">c73a4c44-31bf-4afb-978a-c2939d07840c</guid>
             <pubDate>Mon, 06 Jun 2016 12:07:41 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://blog.longnow.org/02014/04/19/the-knowledge/</link>
             <guid isPermaLink="false">90ee34d5-5074-418e-84ad-31bd287f294b</guid>
             <pubDate>Tue, 08 Mar 2016 11:55:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IPFS Dead Drop]]></title>
-            <description><![CDATA[<article><h1>IPFS Dead Drop</h1><p>A dead drop-like system that automatically uploads files from a USB memory stick to the InterPlanetary File System (IPFS)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd3bc59d2ca65ea3b1e2913dd5b9c145f8e55837.jpg"></article>]]></description>
-            <link>https://github.com/c-base/ipfs-deaddrop</link>
-            <guid isPermaLink="false">6344225f-19a0-4f93-b890-50f63e2fd875</guid>
-            <pubDate>Fri, 04 Mar 2016 22:27:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
