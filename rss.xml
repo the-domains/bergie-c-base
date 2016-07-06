@@ -4,7 +4,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 12:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 21:31:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bergie]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In case of Apocalypse, break glass]]></title>
+            <description><![CDATA[<article><h1>In case of Apocalypse, break glass</h1><p>Lewis Darnell’s The Knowledge provided in case there is a need for a rebuild also outside the space station.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04384996-2e15-4a61-ae5f-9e5bb5158729.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/04384996-2e15-4a61-ae5f-9e5bb5158729.jpg</link>
+            <guid isPermaLink="false">3a3b6e66-890e-40dd-bea4-e51c07a4140c</guid>
+            <pubDate>Wed, 06 Jul 2016 21:31:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Open MCT - Open Source Mission Control Software]]></title>
@@ -68,13 +75,6 @@
             <link>https://github.com/the-grid/jsjob-ethereum</link>
             <guid isPermaLink="false">648bd0a8-0dcc-4c87-a28a-c5c2130f393f</guid>
             <pubDate>Wed, 09 Mar 2016 11:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Knowledge and The Manual for Civilization]]></title>
-            <description><![CDATA[<article><h1>The Knowledge and The Manual for Civilization</h1><p>One of the early inspirations for creating the Manual for Civilization was an email I received from Lewis Dartnell in London asking me for information on a book he was writing inspired by James Lovelock’s “Book for all Seasons”.  The idea was a kind of reboot manual for humanity, and it coincided well with some other conversations we had been having at Long Now about making a collection of books that could do something similar.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7df2dfed93bb87efe500ce84390ae299a455eb.jpg"></article>]]></description>
-            <link>http://blog.longnow.org/02014/04/19/the-knowledge/</link>
-            <guid isPermaLink="false">90ee34d5-5074-418e-84ad-31bd287f294b</guid>
-            <pubDate>Tue, 08 Mar 2016 11:55:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
