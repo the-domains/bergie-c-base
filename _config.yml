@@ -28,5 +28,6 @@ opengraph:
   type: website
 purpose:
   - name: stars
+style: the-composer
 title: ''
 typography_spectrum: 0.26755
