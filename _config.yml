@@ -1,21 +1,8 @@
-name: bergie
-favicon: 'http://the-grid-user-content.s3-us-west-2.amazonaws.com/ingress_table.ico'
-layout_spectrum: 0.85219459966756403
-typography_spectrum: 0.26755
-style: the-composer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: >-
-    https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8015627eaac33f8f08c796cf78bfadc1/gradientmap.jpg?stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&color1=%23161F14&color2=%232C3D29&color3=%23587A52&color4=%236AFB8E&color5=%23CDFED9&srgb=True&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg&width=948&height=1262
-  type: website
-  appId: null
+analytics: {}
+author:
+  email: ''
+  name: ''
+  url: ''
 color:
   brandColors:
     - '#000000'
@@ -25,9 +12,21 @@ color:
     - '#38fa6a'
   brandStrength: 0.9
   lightness: 0.3125
-  saturation: 0.625
   rhythmicContrast: 0.9
+  saturation: 0.625
+content_rating:
+  adult: false
+cta: {}
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b86b8ba0-78db-4d3a-86c7-c8de521a22ce.ico
+layout_spectrum: 0.8521945996675641
+name: bergie@c-base
+opengraph:
+  appId: ''
+  image: >-
+    https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8015627eaac33f8f08c796cf78bfadc1/gradientmap.jpg?stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&color1=%23161F14&color2=%232C3D29&color3=%23587A52&color4=%236AFB8E&color5=%23CDFED9&srgb=True&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg&width=948&height=1262
+  type: website
 purpose:
   - name: stars
-    item: null
-    url: null
+title: ''
+typography_spectrum: 0.26755
