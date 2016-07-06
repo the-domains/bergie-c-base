@@ -1,6 +1,7 @@
 ---
 author: []
-dateModified: '2016-07-06T21:31:21.791Z'
+dateModified: '2016-07-06T21:35:45.624Z'
+datePublished: '2016-07-06T21:35:48.705Z'
 description: >-
   Lewis Darnell’s The Knowledge provided in case there is a need for a rebuild
   also outside the space station.
@@ -8,7 +9,6 @@ inFeed: true
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/04384996-2e15-4a61-ae5f-9e5bb5158729.jpg
 title: 'In case of Apocalypse, break glass'
-datePublished: '2016-07-06T21:31:46.306Z'
 starred: false
 sourcePath: _posts/2016-07-06-in-case-of-apocalypse-break-glass.md
 _context: 'http://schema.org'
