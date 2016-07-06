@@ -1,7 +1,7 @@
 name: bergie
 favicon: 'http://the-grid-user-content.s3-us-west-2.amazonaws.com/ingress_table.ico'
-layout_spectrum: 0.95219459966756403
-typography_spectrum: 0.26755
+layout_spectrum: 0.45219459966756403
+typography_spectrum: 0.8828734252601862
 style: the-composer
 cta:
   domain: null
