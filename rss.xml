@@ -4,7 +4,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 21:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 17:53:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bergie]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quiet Saturday in the main hall]]></title>
+            <description><![CDATA[<article><h1>Quiet Saturday in the main hall</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b99f8868f1f636711fa3c7bc4e93fa8c/croprotate.jpg?cropheight=2993&cropwidth=3240&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3be7e40d-2dcc-4c41-be9c-24b1042e6dec.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3be7e40d-2dcc-4c41-be9c-24b1042e6dec.jpg</link>
+            <guid isPermaLink="false">0307e42f-c873-4a4c-aa14-796cef3d69b2</guid>
+            <pubDate>Mon, 11 Jul 2016 17:53:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In case of Apocalypse, break glass]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bergie-c-base/usb-dead-drop-publishing-via-ipfs/index.html</link>
             <guid isPermaLink="false">d6765684-82bc-4c53-85ce-9180722fd785</guid>
             <pubDate>Wed, 09 Mar 2016 11:42:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jsjob-ethereum]]></title>
-            <description><![CDATA[<article><h1>jsjob-ethereum</h1><p>Experiment in building a computational market on Ethereum blockchain, using out-of-chain execution of JavaScript in browser-sandbox using JsJob, and distributed data storage on IPFS.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bd272f6c767ebd233ea399a6a518cf5246a9e72.jpg"></article>]]></description>
-            <link>https://github.com/the-grid/jsjob-ethereum</link>
-            <guid isPermaLink="false">648bd0a8-0dcc-4c87-a28a-c5c2130f393f</guid>
-            <pubDate>Wed, 09 Mar 2016 11:25:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
