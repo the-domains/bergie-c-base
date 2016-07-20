@@ -49,11 +49,11 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/TieTuesdayLP/status/752644399792742400'
-datePublished: '2016-07-20T12:10:33.845Z'
-dateModified: '2016-07-20T11:55:19.644Z'
+datePublished: '2016-07-20T13:50:59.841Z'
+dateModified: '2016-07-20T13:50:59.738Z'
 title: ''
-starred: false
 sourcePath: _posts/2016-07-20-you-nerds-should-go-outside-no-not-like-that-no-stop-it.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
