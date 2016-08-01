@@ -4,7 +4,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 13:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2016 07:28:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bergie]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="experimenting with live telemetry from @cbase space station to @NASA OpenMCT: https://github.com/c-base/cbeam-telemetry-server ...pic.twitter.com/G6YipuumnT" src="https://pbs.twimg.com/media/CotctAfXYAAKCh0.jpg:large">]]></description>
+            <link>https://twitter.com/bergie/status/759802929738092544</link>
+            <guid isPermaLink="false">9e30d99c-df29-4d70-b913-a62277ab405e</guid>
+            <pubDate>Mon, 01 Aug 2016 07:28:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Station safety equipment]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=UOC_QqtEJtg</link>
             <guid isPermaLink="false">8248ac01-b6df-4650-afb2-f08a90ae7235</guid>
             <pubDate>Tue, 03 May 2016 08:06:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LoganCIJ 2016]]></title>
-            <description><![CDATA[<article><h1>LoganCIJ 2016</h1><p>Demoing the IPFS-powered USB dead drop in the investigative journalism conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3919ca26f385a79725fa3a87156f52f378670c5a.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/bergie/albums/72157665764801046</link>
-            <guid isPermaLink="false">b084ac8f-6182-445a-88a2-9e0562613233</guid>
-            <pubDate>Sat, 12 Mar 2016 14:31:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
