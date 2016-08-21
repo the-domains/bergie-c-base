@@ -4,7 +4,7 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 07:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 18:54:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bergie]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Elon Musk's IAC presentation in Guadalajara on his plans for humans to Mars is on Tues (Sept 27) at 13:30. Late Breaking News session.</p>]]></description>
+            <link>https://twitter.com/SpcPlcyOnline/status/766977190755905537</link>
+            <guid isPermaLink="false">00fdface-1758-485e-b0fb-6601c27cd735</guid>
+            <pubDate>Sat, 20 Aug 2016 18:54:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bloomberg.com/news/articles/2016-05-26/elon-musk-s-most-unexpected-success-is-the-spacex-live-stream</link>
             <guid isPermaLink="false">8be2dad0-5298-440d-a376-70872d4027fb</guid>
             <pubDate>Wed, 01 Jun 2016 22:42:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IPFS Meetup Berlin - 2 May 2016]]></title>
-            <description><![CDATA[<article><h1>IPFS Meetup Berlin - 2 May 2016</h1><p>C-Base</p></article>]]></description>
-            <link>https://www.youtube.com/watch?v=UOC_QqtEJtg</link>
-            <guid isPermaLink="false">8248ac01-b6df-4650-afb2-f08a90ae7235</guid>
-            <pubDate>Tue, 03 May 2016 08:06:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
