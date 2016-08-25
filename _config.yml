@@ -11,7 +11,7 @@ color:
     - '#f90100'
     - '#38fa6a'
   brandStrength: 0.9
-  lightness: 0.3125
+  lightness: 0.3123
   rhythmicContrast: 0.9
   saturation: 0.625
 content_rating:
