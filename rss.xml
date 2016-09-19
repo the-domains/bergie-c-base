@@ -4,15 +4,22 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Sep 2016 23:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2016 16:31:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Sep 2016 14:20:04 GMT</pubDate>
+        <pubDate>Mon, 19 Sep 2016 16:31:57 GMT</pubDate>
         <item>
             <title><![CDATA[Bergie]]></title>
             <description><![CDATA[<article><h1>Bergie</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bc2067cbda021d6a35b526a993be06b1f4be63c.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The IAC in Guadalajara next week will livestream all the plenary sessions (including Musk's). Link: https://t.co/NO1TOxNR5I</p>]]></description>
+            <link>https://twitter.com/SpcPlcyOnline/status/777898492475875328</link>
+            <guid isPermaLink="false">278ef4ff-1437-4aea-84e1-0b586fadea97</guid>
+            <pubDate>Mon, 19 Sep 2016 16:31:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Survive on Mars]]></title>
@@ -69,13 +76,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/04384996-2e15-4a61-ae5f-9e5bb5158729.jpg</link>
             <guid isPermaLink="false">3a3b6e66-890e-40dd-bea4-e51c07a4140c</guid>
             <pubDate>Wed, 06 Jul 2016 21:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Open MCT - Open Source Mission Control Software]]></title>
-            <description><![CDATA[<article><h1>Open MCT - Open Source Mission Control Software</h1><p>Open MCT is a next-generation mission control framework being developed at the NASA Ames Research Center in Silicon Valley. Web-based, for desktop and mobile.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e3d21aa44b28a2c27a09c52f1dc313db/croprotate.jpg?cropheight=860&cropwidth=1215&degrees=0&input=https%3A%2F%2Fnasa.github.io%2Fopenmct%2Fstatic%2Fres%2Fimages%2FOpen-MCT.Browse.Layout.Mars-Weather-1.jpg&x=32&y=0"></article>]]></description>
-            <link>https://nasa.github.io/openmct/</link>
-            <guid isPermaLink="false">a7e82a8f-925a-49b0-9ac8-819d96ec37ee</guid>
-            <pubDate>Tue, 28 Jun 2016 12:42:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
