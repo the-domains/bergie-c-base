@@ -4,15 +4,22 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Sep 2016 16:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2016 08:58:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Sep 2016 16:31:57 GMT</pubDate>
+        <pubDate>Wed, 21 Sep 2016 08:57:30 GMT</pubDate>
         <item>
             <title><![CDATA[Bergie]]></title>
             <description><![CDATA[<article><h1>Bergie</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bc2067cbda021d6a35b526a993be06b1f4be63c.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mars]]></title>
+            <description><![CDATA[<article><h1>Mars</h1><p>Making humans an interplanetary species. Livestream on September 27th</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7283b7687ad76c8707b19258bde6d2312ac25d3a.jpg"></article>]]></description>
+            <link>http://www.spacex.com/mars</link>
+            <guid isPermaLink="false">9461ef89-5912-4066-b04f-80bd876f4c54</guid>
+            <pubDate>Wed, 21 Sep 2016 08:57:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3be7e40d-2dcc-4c41-be9c-24b1042e6dec.jpg</link>
             <guid isPermaLink="false">0307e42f-c873-4a4c-aa14-796cef3d69b2</guid>
             <pubDate>Mon, 11 Jul 2016 17:53:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In case of Apocalypse, break glass]]></title>
-            <description><![CDATA[<article><h1>In case of Apocalypse, break glass</h1><p>Lewis Darnell’s The Knowledge provided in case there is a need for a rebuild also outside the space station.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04384996-2e15-4a61-ae5f-9e5bb5158729.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/04384996-2e15-4a61-ae5f-9e5bb5158729.jpg</link>
-            <guid isPermaLink="false">3a3b6e66-890e-40dd-bea4-e51c07a4140c</guid>
-            <pubDate>Wed, 06 Jul 2016 21:35:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
