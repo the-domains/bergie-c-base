@@ -4,15 +4,22 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Sep 2016 07:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2016 08:22:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Sep 2016 07:17:37 GMT</pubDate>
+        <pubDate>Wed, 28 Sep 2016 08:22:08 GMT</pubDate>
         <item>
             <title><![CDATA[Bergie]]></title>
             <description><![CDATA[<article><h1>Bergie</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bc2067cbda021d6a35b526a993be06b1f4be63c.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX Interplanetary Transport System]]></title>
+            <description><![CDATA[<article><h1>SpaceX Interplanetary Transport System</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/85186906c1d108a1eaa845648b071a82/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F0qo78R_yYFA%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/0qo78R_yYFA</link>
+            <guid isPermaLink="false">2b569dc3-3303-40d5-9248-d05ec92e1f50</guid>
+            <pubDate>Wed, 28 Sep 2016 08:10:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fd71833-31de-4b4b-a294-4a21e7b591ac.gif</link>
             <guid isPermaLink="false">3423ef59-ec28-4a61-a832-3523e4a80e35</guid>
             <pubDate>Sat, 23 Jul 2016 13:52:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"you nerds should go outside" "no not like that no stop it"</p>]]></description>
-            <link>https://twitter.com/TieTuesdayLP/status/752644399792742400</link>
-            <guid isPermaLink="false">2b4d0101-d15c-4946-807c-3d1d8159d8c7</guid>
-            <pubDate>Wed, 20 Jul 2016 12:10:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
