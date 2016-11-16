@@ -4,15 +4,22 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Sep 2016 08:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2016 22:05:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Sep 2016 08:22:08 GMT</pubDate>
+        <pubDate>Wed, 16 Nov 2016 22:05:36 GMT</pubDate>
         <item>
             <title><![CDATA[Bergie]]></title>
             <description><![CDATA[<article><h1>Bergie</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bc2067cbda021d6a35b526a993be06b1f4be63c.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tartan Details - Mars Exploration]]></title>
+            <description><![CDATA[<article><h1>Tartan Details - Mars Exploration</h1><p>Designed on behalf of Charles Cockell, Professor of Astrobiology, Edinburgh University, this tartan is intended to be worn during Mars science, exploration and outreach activities.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a73bfafe-58ab-47b4-a661-e88b968a82b4.jpg"></article>]]></description>
+            <link>https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11658</link>
+            <guid isPermaLink="false">ba9d0012-163c-40bd-9eaf-e8782a6f56f9</guid>
+            <pubDate>Wed, 16 Nov 2016 22:05:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SpaceX Interplanetary Transport System]]></title>
@@ -23,7 +30,7 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Aim of #SpaceX is to be the *transport system* for becoming an interplanatory species". Lots of other things needed ;) Get crackin'</p>]]></description>
+            <description><![CDATA[<blockquote>Aim of #SpaceX is to be the *transport system* for becoming an interplanatory species&quot;. Lots of other things needed ;) Get crackin&apos;</blockquote>]]></description>
             <link>https://twitter.com/jononor/status/780867712616632320</link>
             <guid isPermaLink="false">a9c39459-a8d9-45e6-aebd-7854e6e308d9</guid>
             <pubDate>Wed, 28 Sep 2016 07:14:09 GMT</pubDate>
@@ -37,7 +44,7 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The IAC in Guadalajara next week will livestream all the plenary sessions (including Musk's). Link: https://t.co/NO1TOxNR5I</p>]]></description>
+            <description><![CDATA[<blockquote>The IAC in Guadalajara next week will livestream all the plenary sessions (including Musk&apos;s). Link: https://t.co/NO1TOxNR5I</blockquote>]]></description>
             <link>https://twitter.com/SpcPlcyOnline/status/777898492475875328</link>
             <guid isPermaLink="false">278ef4ff-1437-4aea-84e1-0b586fadea97</guid>
             <pubDate>Mon, 19 Sep 2016 16:31:56 GMT</pubDate>
@@ -58,7 +65,7 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Elon Musk's IAC presentation in Guadalajara on his plans for humans to Mars is on Tues (Sept 27) at 13:30. Late Breaking News session.</p>]]></description>
+            <description><![CDATA[<blockquote>Elon Musk&apos;s IAC presentation in Guadalajara on his plans for humans to Mars is on Tues (Sept 27) at 13:30. Late Breaking News session.</blockquote>]]></description>
             <link>https://twitter.com/SpcPlcyOnline/status/766977190755905537</link>
             <guid isPermaLink="false">00fdface-1758-485e-b0fb-6601c27cd735</guid>
             <pubDate>Sat, 20 Aug 2016 18:54:05 GMT</pubDate>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/bergie/status/759802929738092544</link>
             <guid isPermaLink="false">9e30d99c-df29-4d70-b913-a62277ab405e</guid>
             <pubDate>Mon, 01 Aug 2016 07:28:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Station safety equipment]]></title>
-            <description><![CDATA[<article><h1>Station safety equipment</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fd71833-31de-4b4b-a294-4a21e7b591ac.gif"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fd71833-31de-4b4b-a294-4a21e7b591ac.gif</link>
-            <guid isPermaLink="false">3423ef59-ec28-4a61-a832-3523e4a80e35</guid>
-            <pubDate>Sat, 23 Jul 2016 13:52:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
