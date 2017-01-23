@@ -1,7 +1,7 @@
 ---
 title: Mechanical keyboard meetup at c-base
-datePublished: '2017-01-23T19:06:34.926Z'
-dateModified: '2017-01-23T19:06:24.648Z'
+datePublished: '2017-01-23T19:33:55.716Z'
+dateModified: '2017-01-23T19:32:13.624Z'
 publisher: {}
 author: []
 inFeed: true
@@ -30,3 +30,6 @@ January 2017
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b796f5ae-75bf-43c5-ab04-af1676c63512.jpg" /><h1>Ergodox EZ</h1></article>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cef2161-f54a-4394-b208-3ce28adce112.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/624b585a-9d56-425e-b947-79b7354da804.gif)
+
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/618f4337-fcbf-4830-896b-3e33414e09d3.jpg" /><h1>Atreus</h1></article>
