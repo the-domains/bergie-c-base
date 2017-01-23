@@ -1,13 +1,13 @@
 ---
 title: Mechanical keyboard meetup at c-base
-dateModified: '2017-01-23T18:28:17.165Z'
+datePublished: '2017-01-23T18:33:59.498Z'
+dateModified: '2017-01-23T18:33:38.632Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: January 2017
 via: {}
-datePublished: '2017-01-23T18:29:01.140Z'
 starred: false
 datePublishedOriginal: '2017-01-23T18:29:01.140Z'
 sourcePath: _posts/2017-01-23-mechanical-keyboard-meetup-at-c-base.md
@@ -26,3 +26,5 @@ January 2017
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/494fa3cf-9ed2-473d-aa53-5e91b75ed25a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61e4fd7d-4107-4233-a403-851cc6d4ea0c.jpg)
+
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b796f5ae-75bf-43c5-ab04-af1676c63512.jpg" /><h1>Ergodox EZ</h1></article>
