@@ -4,15 +4,22 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Feb 2017 17:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2017 16:36:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Feb 2017 17:32:47 GMT</pubDate>
+        <pubDate>Mon, 27 Mar 2017 16:35:53 GMT</pubDate>
         <item>
             <title><![CDATA[Bergie]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg" alt="" title="Bergie">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bauwoche]]></title>
+            <description><![CDATA[<h1>Bauwoche</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/088503d4-f705-466e-bd98-f7f29c2b0da5.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d50633f-134a-4eff-b23c-4b758832ec35.gif">]]></description>
+            <link>https://thegrid.ai/bergie-c-base/bauwoche/index.html</link>
+            <guid isPermaLink="false">101af747-2faf-4aed-84fa-43c84b868d3c</guid>
+            <pubDate>Mon, 27 Mar 2017 16:35:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beginning of a new project]]></title>
@@ -69,13 +76,6 @@
             <link>http://www.spacex.com/mars</link>
             <guid isPermaLink="false">9461ef89-5912-4066-b04f-80bd876f4c54</guid>
             <pubDate>Wed, 21 Sep 2016 08:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>The IAC in Guadalajara next week will livestream all the plenary sessions (including Musk&apos;s). Link: https://t.co/NO1TOxNR5I</blockquote>]]></description>
-            <link>https://twitter.com/SpcPlcyOnline/status/777898492475875328</link>
-            <guid isPermaLink="false">278ef4ff-1437-4aea-84e1-0b586fadea97</guid>
-            <pubDate>Mon, 19 Sep 2016 16:31:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
