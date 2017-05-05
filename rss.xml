@@ -4,15 +4,22 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Apr 2017 20:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2017 15:04:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Apr 2017 20:31:38 GMT</pubDate>
+        <pubDate>Fri, 05 May 2017 15:04:27 GMT</pubDate>
         <item>
             <title><![CDATA[Bergie]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg" alt="" title="Bergie">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfe9d2eb-b1f7-4a59-be84-772ca8572bb0.png">,<blockquote>Electricity consumption of @cbase seen live in @Flowhub_io, powered by MsgFlo #IoT</blockquote>]]></description>
+            <link>https://twitter.com/bergie/status/860503888776003586</link>
+            <guid isPermaLink="false">9903594e-73be-414f-a1af-5d6fa1982a51</guid>
+            <pubDate>Fri, 05 May 2017 15:04:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Atreus: Building a custom ergonomic keyboard]]></title>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/0qo78R_yYFA</link>
             <guid isPermaLink="false">2b569dc3-3303-40d5-9248-d05ec92e1f50</guid>
             <pubDate>Wed, 28 Sep 2016 08:10:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>Aim of #SpaceX is to be the *transport system* for becoming an interplanatory species&quot;. Lots of other things needed ;) Get crackin&apos;</blockquote>]]></description>
-            <link>https://twitter.com/jononor/status/780867712616632320</link>
-            <guid isPermaLink="false">a9c39459-a8d9-45e6-aebd-7854e6e308d9</guid>
-            <pubDate>Wed, 28 Sep 2016 07:14:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
