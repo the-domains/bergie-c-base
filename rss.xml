@@ -4,15 +4,36 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 May 2017 16:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2017 19:12:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 May 2017 16:29:02 GMT</pubDate>
+        <pubDate>Wed, 07 Jun 2017 19:12:52 GMT</pubDate>
         <item>
             <title><![CDATA[Bergie]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg" alt="" title="Bergie">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reprogramming the hackerspace: MsgFlo IoT workshop at c-base]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/42c7c94cb0d0a2e824ffb6172f26466c/noop.png?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Fdetect-abba.png"><h1>Reprogramming the hackerspace: MsgFlo IoT workshop at c-base</h1><p>This July we&apos;re organizing a hack weekend around MsgFlo and Flowhub. This will focus on reprogramming the Internet of Things setup of the hackerspace. The aim is to connect more devices at the spaces to the MsgFlo environment, and come up with new connections between systems, and ways to visualize them.</p></article>]]></description>
+            <link>http://bergie.iki.fi/blog/msgflo-workshops-cbase-bitraf/</link>
+            <guid isPermaLink="false">6181f8e8-da20-4bc3-a802-b40a0f184ea2</guid>
+            <pubDate>Wed, 07 Jun 2017 17:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Demoed the @cbase @Flowhub_io IoT setup at @BerlinHacknTell https://t.co/jnOBa79iLN (photo by @c_v_e_n)</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebffadf5-1947-45a8-8e38-c150afc19fe3.jpg">]]></description>
+            <link>https://twitter.com/bergie/status/869614270761381889</link>
+            <guid isPermaLink="false">c4e3fecd-3461-4736-8e9c-4bb37df342d1</guid>
+            <pubDate>Tue, 30 May 2017 18:28:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Disco mode at c-base by @urongokrompf , starts automatically on certain songs]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F18672166_311517142615612_2234716095934103552_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBUVaw8NFEIJ%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fe15%2F18514066_214595882388044_4191892539072053248_n.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=video%2Fmp4&schema=instagram" width="658" height="640" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.instagram.com/p/BUVaw8NFEIJ/</link>
+            <guid isPermaLink="false">ec5654d6-7189-4e9e-a7bb-0669dcabeb1c</guid>
+            <pubDate>Sun, 21 May 2017 00:45:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rewiring a space station with Flowhub]]></title>
@@ -55,27 +76,6 @@
             <link>https://thegrid.ai/bergie-c-base/mechanical-keyboard-meetup-at-c-base/index.html</link>
             <guid isPermaLink="false">2dd459d4-524a-4210-85e5-d41abf87691c</guid>
             <pubDate>Mon, 23 Jan 2017 18:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ready for launch]]></title>
-            <description><![CDATA[<img alt="Ready for launch" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/15802283_986801934797580_7153224085382627328_n.jpg?ig_cache_key=MTQyNzcwMjg2OTQ0NDc0OTg2OA%3D%3D.2">]]></description>
-            <link>https://www.instagram.com/p/BPQODIKD2os/</link>
-            <guid isPermaLink="false">26f3969b-a7b2-4be4-984a-89bca0de5536</guid>
-            <pubDate>Mon, 16 Jan 2017 23:06:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Glühwein contest at the station]]></title>
-            <description><![CDATA[<h1>Glühwein contest at the station</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13d19d8e-f31a-4b46-a7d2-9f864919e255.jpg">,<p>A midwinter night with fire and spicy wine.</p>]]></description>
-            <link>https://thegrid.ai/bergie-c-base/gluhwein-contest-at-the-station/index.html</link>
-            <guid isPermaLink="false">5ff5f75b-6963-4aa6-8a96-25d7ed527cc4</guid>
-            <pubDate>Fri, 23 Dec 2016 18:07:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tartan Details - Mars Exploration]]></title>
-            <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a73bfafe-58ab-47b4-a661-e88b968a82b4.jpg"><h1>Tartan Details - Mars Exploration</h1><p>Designed on behalf of Charles Cockell, Professor of Astrobiology, Edinburgh University, this tartan is intended to be worn during Mars science, exploration and outreach activities.</p></article>]]></description>
-            <link>https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11658</link>
-            <guid isPermaLink="false">ba9d0012-163c-40bd-9eaf-e8782a6f56f9</guid>
-            <pubDate>Wed, 16 Nov 2016 22:05:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
