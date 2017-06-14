@@ -4,15 +4,22 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 07 Jun 2017 19:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2017 14:04:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Jun 2017 19:12:52 GMT</pubDate>
+        <pubDate>Wed, 14 Jun 2017 14:04:07 GMT</pubDate>
         <item>
             <title><![CDATA[Bergie]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg" alt="" title="Bergie">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Evening hacking at @cbase - showing crew on board as heat map on the main hall column light with @Flowhub_io</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77c69aa0-be5f-49f3-b1ef-0e83540e6c8b.jpg">]]></description>
+            <link>https://twitter.com/bergie/status/873265864786817024</link>
+            <guid isPermaLink="false">8c9da0b6-1634-4765-8f2a-8662610386cd</guid>
+            <pubDate>Wed, 14 Jun 2017 14:03:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reprogramming the hackerspace: MsgFlo IoT workshop at c-base]]></title>
@@ -69,13 +76,6 @@
             <link>https://www.instagram.com/p/BP0lNxJDng_/</link>
             <guid isPermaLink="false">7a17fcbd-67ec-4e3d-b89a-da30fdadbca1</guid>
             <pubDate>Fri, 17 Feb 2017 17:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mechanical keyboard meetup at c-base]]></title>
-            <description><![CDATA[<h1>Mechanical keyboard meetup at c-base</h1>,<p>January 2017</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fe4c670-cd15-4803-ab78-0f80b5720cdb.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7659327b-7bcb-4318-9809-e325c6c7853f.jpg" title="Steel front plates">]]></description>
-            <link>https://thegrid.ai/bergie-c-base/mechanical-keyboard-meetup-at-c-base/index.html</link>
-            <guid isPermaLink="false">2dd459d4-524a-4210-85e5-d41abf87691c</guid>
-            <pubDate>Mon, 23 Jan 2017 18:29:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
