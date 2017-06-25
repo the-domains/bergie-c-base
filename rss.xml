@@ -4,15 +4,22 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Jun 2017 14:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2017 07:27:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Jun 2017 14:04:07 GMT</pubDate>
+        <pubDate>Sun, 25 Jun 2017 07:27:37 GMT</pubDate>
         <item>
             <title><![CDATA[Bergie]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg" alt="" title="Bergie">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Greetings earthlings&quot; --Team B-base pitching now #spacehelmets #NBIoTHack</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3a166f4-d33a-47be-a7c5-60ee49891e13.jpg">]]></description>
+            <link>https://twitter.com/BeMyAppGermany/status/878587185615777793</link>
+            <guid isPermaLink="false">06344852-71b7-4c16-9c9a-f2421938e954</guid>
+            <pubDate>Sun, 25 Jun 2017 07:27:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/bergie-c-base/bauwoche/index.html</link>
             <guid isPermaLink="false">101af747-2faf-4aed-84fa-43c84b868d3c</guid>
             <pubDate>Mon, 27 Mar 2017 16:35:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beginning of a new project]]></title>
-            <description><![CDATA[<img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16230343_210612919408264_1592631267004776448_n.jpg?ig_cache_key=MTQzNzkzNzg1NDg3NzQzMTg3MQ%3D%3D.2" title="Beginning of a new project">]]></description>
-            <link>https://www.instagram.com/p/BP0lNxJDng_/</link>
-            <guid isPermaLink="false">7a17fcbd-67ec-4e3d-b89a-da30fdadbca1</guid>
-            <pubDate>Fri, 17 Feb 2017 17:32:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
