@@ -4,15 +4,22 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Jun 2017 07:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2017 14:26:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Jun 2017 07:27:37 GMT</pubDate>
+        <pubDate>Mon, 26 Jun 2017 14:26:10 GMT</pubDate>
         <item>
             <title><![CDATA[Bergie]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg" alt="" title="Bergie">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NB-IoT with BC95 from Quectel - AT commands for arduino]]></title>
+            <description><![CDATA[<article><h1>NB-IoT with BC95 from Quectel - AT commands for arduino</h1><p>Last weekend the c-base and friends team had a great time doing some hacking with Narrow Band IoT ( NB-IoT) from Deutsche Telekom at the nbiot-hackathon at hub:raum. We could put our hands on the BC95 chip, a dev board and access to the Telekom test network.</p><img src="https://ansi.23-5.eu/wp-content/uploads/2017/06/bc95baord.png"></article>]]></description>
+            <link>https://ansi.23-5.eu/2017/06/nb-iot-bc95-arduino/</link>
+            <guid isPermaLink="false">d9f82df3-2d7c-4fbf-943a-856f4b087f84</guid>
+            <pubDate>Mon, 26 Jun 2017 14:25:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@
             <link>http://bergie.iki.fi/blog/atreus-build-log/</link>
             <guid isPermaLink="false">d2fcccad-d8bc-4915-8004-ea886dba54d0</guid>
             <pubDate>Thu, 20 Apr 2017 20:31:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bauwoche]]></title>
-            <description><![CDATA[<h1>Bauwoche</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/088503d4-f705-466e-bd98-f7f29c2b0da5.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d50633f-134a-4eff-b23c-4b758832ec35.gif">]]></description>
-            <link>https://thegrid.ai/bergie-c-base/bauwoche/index.html</link>
-            <guid isPermaLink="false">101af747-2faf-4aed-84fa-43c84b868d3c</guid>
-            <pubDate>Mon, 27 Mar 2017 16:35:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
