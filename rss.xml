@@ -4,15 +4,22 @@
         <description><![CDATA[bergie@c-base]]></description>
         <link>https://thegrid.ai/bergie-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Jun 2017 14:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2017 14:53:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bergie-c-base/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Jun 2017 14:26:10 GMT</pubDate>
+        <pubDate>Fri, 07 Jul 2017 14:53:20 GMT</pubDate>
         <item>
             <title><![CDATA[Bergie]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg" alt="" title="Bergie">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf61a14a-3ff2-4a8a-8b32-11f57be2cb96.jpg</link>
             <guid isPermaLink="false">8547c6f9-d8ef-4c83-8466-2ec4b1f8d973</guid>
             <pubDate>Tue, 27 Oct 2015 18:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Telemetry from @cbase visualized on @NASA OpenMCT, ready for the @Flowhub_io #IoT hack weekend starting tonight</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e15734e-68ff-494d-80b4-c64724aeddae.png">]]></description>
+            <link>https://twitter.com/bergie/status/883271511892733952</link>
+            <guid isPermaLink="false">f7f4d137-48cd-473f-84d9-98de0b7b9768</guid>
+            <pubDate>Fri, 07 Jul 2017 14:53:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NB-IoT with BC95 from Quectel - AT commands for arduino]]></title>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/bergie/status/860503888776003586</link>
             <guid isPermaLink="false">9903594e-73be-414f-a1af-5d6fa1982a51</guid>
             <pubDate>Fri, 05 May 2017 15:04:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Atreus: Building a custom ergonomic keyboard]]></title>
-            <description><![CDATA[<article><h1>Atreus: Building a custom ergonomic keyboard</h1><p>As mentioned in my Working on Android post, I&apos;ve been using a mechanical keyboard for a couple of years now. Now that I work on Flowhub from home, it was a good time to re-evaluate the whole work setup. As far as regular keyboards go, the MiniLa was nice, but I wanted something more compact and ergonomic.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/atreus-build/ready-2-small.jpg"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/atreus-build-log/</link>
-            <guid isPermaLink="false">d2fcccad-d8bc-4915-8004-ea886dba54d0</guid>
-            <pubDate>Thu, 20 Apr 2017 20:31:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
